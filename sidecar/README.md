@@ -112,7 +112,7 @@ Figwheel: Starting server at http://localhost:3449
 Figwheel: Watching build - example
 Compiling "resources/public/js/tryfig.js" from ["src"]...
 Successfully compiled "resources/public/js/tryfig.js" in 3.247 seconds.
-#<SystemMap>
+# <SystemMap>
 ```
 
 To complete this simple example let's launch a Figwheel REPL:
@@ -189,7 +189,7 @@ Figwheel: Watching build - example
 Compiling "resources/public/js/tryfig.js" from ["src"]...
 Successfully compiled "resources/public/js/tryfig.js" in 0.658 seconds.
 Figwheel: Starting CSS Watcher for paths  ["resources/public/css"]
-#<SystemMap>
+# <SystemMap>
 ```
 
 The main idea here is that the `:figwheel-server` is the single dependent

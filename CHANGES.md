@@ -204,7 +204,7 @@ off of my startup time
 
 file::/User/bhauman/bin/figt
 ```
-#!/bin/bash
+# !/bin/bash
 
 LEIN_FAST_TRAMPOLINE=y rlwrap lein trampoline figwheel "$@"
 ```
